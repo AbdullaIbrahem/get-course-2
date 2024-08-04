@@ -1,2 +1,2 @@
-# get-course-2
+# git-course-2
 the second repo with el-zerro
